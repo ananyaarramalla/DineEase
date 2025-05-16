@@ -1,0 +1,179 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Indulge in a culinary experience like no other with our commitment to excellence. Each dish is crafted with precision and care, ensuring a delightful journey for your taste buds with every bite."
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Elevate your dining experience with flavors that tantalize the senses. From traditional favorites to innovative creations, our menu promises an explosion of taste that will leave you craving for more." 
+            },
+            {
+                "id": 3,
+                "image": "./dish.svg",
+                "title": "CUSTOMIZABLE MENU",
+                "description": "Enjoy the flexibility of our customizable menu options. Whether you have dietary preferences or specific cravings, we cater to your needs with a wide range of delicious choices." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "ROASTED LAMB RUMP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "CITRUS CURED SALMON",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "PAN SEARED SEA BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dessert2.png",
+                "title": "STRAWBERRY CHEESECAKE",
+                "category": "Dessert"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BEEF BURGER MEAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "MUSSELS SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "Kevin Brown",
+                "designation": "Founder & CEO"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "Jessica Lee",
+                "designation": "Head Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "Michael Smith",
+                "designation": "Marketing Manager"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "Emily Chen",
+                "designation": "Customer Service Representative"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "15",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "05",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            },
+            {
+                "id": 6,
+                "title": "REVIEWS",
+                "link": "reviews"
+            }
+        ]
+    
+    } 
+    ]
+}
